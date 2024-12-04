@@ -13,6 +13,4 @@ and publishes the content as an Instagram post using the Instagram Graph API.
 ---
 
 can see output like This
-Generated Caption: Paula's Choice is having a huge sale on their site
-Article URL: https://variety.com/2024/shopping/news/paulas-choice-deal-1235378019/
-Image successfully downloaded and saved to temp_image.jpg
+
