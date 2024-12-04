@@ -1,4 +1,4 @@
-#how to setup and run code
+#to setup and run code
 first download the code 
 - Run pip install -r requirements.txt
 - python assignment_task.py
