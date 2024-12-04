@@ -1,3 +1,8 @@
+#how to setup and run code
+first download the code 
+- Run pip install -r requirements.txt
+- python assignment_task.py
+
 # Instagram RSS Feed Automation  
 
 This project automates the process of posting summarized content from an RSS feed to Instagram.  
